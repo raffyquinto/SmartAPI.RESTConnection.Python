@@ -3,7 +3,7 @@ import SmartAPI
 #calling and using Smart SMS API using a Constructor (optional)
 messaging = SmartAPI.SmartSMS(spID="001259",
                                   servID="0012592000001346",
-                                  passwd="Fu9wPaknmbsIx2kk+kAMyX0I/7s=",
+                                  passwd="Fu9wPaknmbsIx2kk+kAMyX0I/7s=a",
                                   creationTime="2010-08-21T08:33:46Z",
                                   nonce="2010082108334600001",
                                   accessCode="406821")
